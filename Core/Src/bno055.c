@@ -1,6 +1,4 @@
 
-bno055.c.txt
-100%
 #include "bno055.h"
 #include <math.h>
 #include <stdint.h>
@@ -758,4 +756,3 @@ HAL_StatusTypeDef BNO055_CalcOffsets(
 
     return HAL_OK;
 }
-Displaying bno055.h.txt.
